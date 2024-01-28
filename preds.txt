@@ -1,0 +1,26 @@
+#!/bin/bash
+
+#team names should only contain alphabets                : alphacheck-teams-1-1-1
+#number of teams should be 2 only                        : countcheck-teams-1-1-2
+#extras should be a number only                          : numcheck-extras-1-2-1
+#total runs should be a number only                      : numcheck-total-1-3-1
+#runs scored by batsman should be a number only          : numcheck-runs_batsman-1-4-1
+#toss shall be won by the teams who are playing          : teamcheck-toss-1-5-1
+#toss decision shall be either bat or field nothing else : decisioncheck-toss-1-5-2
+#total player count shall not be exceeding 22            : countcheck-players-1-6-1
+#name of the players should be alphabets only            : alphacheck-players-1-6-2
+#winning team must be from the playing teams only        : winteamcheck-winner-1-7-1
+#city of the match should be alphabet only               : alphacheck-city-1-8-1
+#name of the umpires should be alphabets only            : alphacheck-umpires-1-9-1
+#gender should be alphabet only                          : alphacheck-gender-1-10-1
+#player of the match should be alphabet only             : alphacheck-playerofthematch-1-11-1
+#player of the match should be from the list of players  : playerbelongs-playerofthematch-1-11-2
+#oversand balls should be numeric only                   : numcheck-oversballs-1-12-1
+# all the keywords should be alphabet only               : alphacheck-keywords-1-13-1
+#total runs = extras + batsmen_run                       : totalcheck-run_tuple-2-2-1
+#batters of each team shall not be more than 11          : countcheck-team_players-3-1-1
+#bowlers of each team cannot be more than 15             : countcheck-team_players-3-1-2
+#total members in each team shall not exceed 15          : countcheck-team_combined-4-1-1
+#members in each team should be mutually exclusive       : exclusion-team_members_4-1-2
+#lineno1>lineno2 -> overno1>overno2 or overno1 = overno2 : overseq-overline-4-2-1 
+#consecutive overs should have a difference of 1 only    : diff1-conover-5-1-1

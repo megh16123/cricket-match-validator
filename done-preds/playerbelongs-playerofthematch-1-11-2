@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pom=$(cat ./objects/player_of_match)
+
+awk -v nme="$pom" 'BEGIN{flag="NO"}{if($0~nme){flag=""}}END{print flag}' ./objects/players

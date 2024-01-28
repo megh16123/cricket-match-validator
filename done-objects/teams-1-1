@@ -1,0 +1,2 @@
+#!/bin/bash 
+sed -n '/teams/,/:/p' $1 | sed '/  .*:/d;s/  - \(.*\)/\1/g'>./objects/teams

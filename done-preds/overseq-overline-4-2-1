@@ -1,0 +1,4 @@
+#!/bin/bash
+awk -F "#" 'BEGIN{line1 =0;over1 =-1}(line1<$1)&&($2<over1){print "NO";exit}{line1 = $1;over1=$2}' ./objects/overline1
+awk -F "#" 'BEGIN{line1 =0;over1 =-1}(line1<$1)&&($2<over1){print "NO";exit}{line1 = $1;over1=$2}' ./objects/overline2
+

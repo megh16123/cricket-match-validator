@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Step 1 
+./alphacheck-teams-1-1-1
+./countcheck-teams-1-1-2
+./numcheck-extras-1-2-1
+./numcheck-total-1-3-1
+./numcheck-runs_batsman-1-4-1
+./teamcheck-toss-1-5-1
+./decisioncheck-toss-1-5-2
+./countcheck-players-1-6-1
+./alphacheck-players-1-6-2
+./winteamcheck-winner-1-7-1
+./alphacheck-city-1-8-1
+./alphacheck-umpires-1-9-1
+./alphacheck-gender-1-10-1
+./alphacheck-playerofthematch-1-11-1
+./playerbelongs-playerofthematch-1-11-2
+./numcheck-oversballs-1-12-1
+./alphacheck-keywords-1-13-1
+# Step 2
+./totalcheck-run_tuple-2-2-1
+
+# Step 3
+./countcheck-team_players-3-1-1
+./countcheck-team_players-3-1-2
+# Step 4
+./countcheck-team_combined-4-1-1
+./exclusion-team_members_4-1-2
+./overseq-overline-4-2-1 

@@ -1,0 +1,5 @@
+#!/bin/awk -f 
+
+nme~$0{
+print "NO"
+}

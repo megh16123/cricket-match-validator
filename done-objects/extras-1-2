@@ -1,0 +1,5 @@
+#!/bin/awk -f
+/extras: [0-9]*/{
+	split($0,r,":")
+	print r[2]>"./objects/extras"
+}

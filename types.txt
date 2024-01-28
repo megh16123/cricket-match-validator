@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#names of the teams                                                             : teams-1-1
+#extras in a match                                                              : extras-1-2
+#total runs in each ball throughout the match                                   : total-1-3
+#runs scored by batsman throughout the match                                    : runs_batsmen-1-4
+#toss information                                                               : toss-1-5
+#all the players who played throughout the match                                : players-1-6
+#winning team of the match                                                      : winner-1-7
+#city of the match                                                              : city-1-8
+#umpires of the match                                                           : umpires-1-9
+#gender                                                                         : gender-1-10
+#player of the match                                                            : playerofthematch-1-11
+#overs and balls throughout the match                                           : oversballs-1-12
+#All the keywords present in the file                                           : keywords-1-13
+#inning wise data                                                               : innings-2-1
+#(total,extras,runs_batsmen)                                                    : run_tuple-2-2
+#over and balls with line numers                                                : overball-3-2
+#team players classified as bowlers batsmen(non_strikers included) of each team : team_players-3-1
+#combined players of each team                                                  : team_combined-4-1
+#overs with line number                                                         : overline-4-2
+#consecutive over numbers                                                       : conover-5-1

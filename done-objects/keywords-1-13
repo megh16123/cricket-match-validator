@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cut -d ":" -f 1 1116056.yaml | sed '/ *- */d;s/ *//g' | sort | uniq > ./objects/keywords

@@ -1,0 +1,4 @@
+#!/bin/bash
+cut ./objects/overndballs1 -d "." -f 1 > ./objects/overline1
+
+cut ./objects/overndballs2 -d "." -f 1 > ./objects/overline2

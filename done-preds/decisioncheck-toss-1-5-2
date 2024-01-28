@@ -1,0 +1,2 @@
+#/bin/bash
+awk '! /field|bat/{print "NO"}' ./objects/toss/decision

@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+sed -n '/umpires:/,/:/p' $1 | sed '/:/d' | sed 's/ *\- *\([a-z\|A-Z]\)/\1/' > ./objects/umpires

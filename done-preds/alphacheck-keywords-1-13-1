@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+awk '!/[[:alpha:]]/||! /_*/ || /[[:digit:]]/{print " NO "}' ./objects/keywords

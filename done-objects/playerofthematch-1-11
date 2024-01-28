@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -n '/player_of_match:/,/:/p' $1 | sed '/:/d' | cut -d "-" -f 2 | sed 's/ *\([a-z\|A-Z]\)/\1/' > ./objects/player_of_match

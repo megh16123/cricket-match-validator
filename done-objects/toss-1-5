@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir ./objects/toss 
+sed -n '/toss:/{n;p;n;p}' $1 | sed 's/ *\(decision\|winner\): *\(.*\)/echo \2>\.\/objects\/toss\/\1/e'

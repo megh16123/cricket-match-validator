@@ -1,0 +1,13 @@
+#!/bin/bash
+
+in1=$(awk '/team/{split($0,r,":");split(r[2],l," ");print l[1]}' ./objects/inning1)
+in2=$(awk '/team/{split($0,r,":");split(r[2],l," ");print l[1]}' ./objects/inning2)
+
+awk -v i="batsmen_"$in1".tmp" -v j="bowlers_"$in2".tmp" '/non_striker/ || /^ *batsman: *[A-Za-z]+/{split($0,l,":");print l[2]>i;}/bowler/{split($0,l,":");print l[2]>j}' ./objects/inning1
+awk -v i="bowlers_"$in1".tmp" -v j="batsmen_"$in2".tmp" '/non_striker/ || /^ *batsman: *[A-Za-z]+/{split($0,l,":");print l[2]>>j;}/bowler/{split($0,l,":");print l[2]>>i}' ./objects/inning2
+sort "batsmen_"$in1".tmp" | uniq > "./objects/batsmen_"$in1
+sort "bowlers_"$in1".tmp" | uniq > "./objects/bowlers_"$in1
+sort "batsmen_"$in2".tmp" | uniq > "./objects/batsmen_"$in2
+sort "bowlers_"$in2".tmp" | uniq > "./objects/bowlers_"$in2
+rm *.tmp 
+

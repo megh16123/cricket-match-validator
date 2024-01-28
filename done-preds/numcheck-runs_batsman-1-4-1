@@ -1,0 +1,3 @@
+#/bin/bash
+
+awk '! /[[:digit:]]+/{print "No"}' ./objects/batsman_run

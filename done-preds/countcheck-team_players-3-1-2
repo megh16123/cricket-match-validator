@@ -1,0 +1,4 @@
+#/bin/bash
+
+cat ./objects/teams |  sed 's/\(.*\)/wc -l .\/objects\/bowlers_\1 \| cut -d " " -f 1 /e' | awk '$0>15{print "NO"}'
+

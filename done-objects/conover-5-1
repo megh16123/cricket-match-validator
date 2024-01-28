@@ -1,0 +1,4 @@
+#!/bin/bash
+
+awk -F "#" 'BEGIN{over=0;}(over<$2){print over"#"$2;over=$2}' ./objects/overline1 > ./objects/conover1
+awk -F "#" 'BEGIN{over=0;}(over<$2){print over"#"$2;over=$2}' ./objects/overline2 > ./objects/conover2

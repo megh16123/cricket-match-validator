@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -n '/^ *outcome:/{n;/winner:/p}' $1 | cut -d ":" -f 2 - |cut -d " " -f 2 > ./objects/winner
+

@@ -1,0 +1,3 @@
+#!/bin/bash 
+sed -n '/1st innings/,/2nd innings/p' $1 > ./objects/inning1
+sed -n '/2nd innings/,//p' $1 > ./objects/inning2

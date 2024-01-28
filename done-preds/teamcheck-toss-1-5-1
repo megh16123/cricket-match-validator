@@ -1,0 +1,4 @@
+#/bin/bash
+
+winner=$(cat ./objects/toss/winner)
+awk -v win=$winner 'BEGIN{flag="NO"}{if(win==$0){flag=""}}END{print flag}' ./objects/teams

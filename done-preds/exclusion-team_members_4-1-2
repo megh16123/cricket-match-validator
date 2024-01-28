@@ -1,0 +1,4 @@
+#/bin/bash
+t1=$(sed -n 'p;q' ./objects/teams)
+t2=$(sed -n 'n;p;q' ./objects/teams)
+cat ./objects/member_$t1 | sed  's/\(.*\)/\.\/member_helper -v nme="\1" \.\/objects\/member_'$t2'/ge'

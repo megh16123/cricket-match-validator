@@ -1,0 +1,5 @@
+#!/bin/bash
+awk '/^ *bowler/ || /^ *batsman: *[A-Za-z]+/ || /^ *non_striker/{split($0,player,":");print player[2]>"./players.tmp"}' $1
+sed -n '/fielders:/,/:/p' $1 | awk '! /:/{print $0}' | sed -n 's/ *- *\(.*\)/\1/g'
+sort ./players.tmp | uniq > ./objects/players && rm ./players.tmp
+

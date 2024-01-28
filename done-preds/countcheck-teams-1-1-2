@@ -1,0 +1,3 @@
+#!/bin/bash
+
+wc -l teams | awk -F " " '$1!=2{print "NO"}' 

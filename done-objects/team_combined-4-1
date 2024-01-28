@@ -1,0 +1,3 @@
+#/bin/bash 
+sed -n 's/\(.*\)/paste -d "," -s \.\/objects\/batsmen_\1 \.\/objects\/bowlers_\1>\1.to \&\& .\/qt \1 > \.\/objects\/member_\1/e' ./objects/teams && rm *.to
+

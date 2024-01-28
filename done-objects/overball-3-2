@@ -1,0 +1,4 @@
+#/bin/bash
+
+sed -n '/[0-9]\.[0-9]/p' ./objects/inning1 | sed 's/-\| *\|://g' > ./objects/overndballs1
+sed -n '/[0-9]\.[0-9]/p' ./objects/inning2 | sed 's/-\| *\|://g' > ./objects/overndballs2
