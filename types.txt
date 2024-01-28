@@ -20,3 +20,4 @@
 #combined players of each team                                                  : team_combined-4-1
 #overs with line number                                                         : overline-4-2
 #consecutive over numbers                                                       : conover-5-1
+#over wise data 								: over_details-6-1

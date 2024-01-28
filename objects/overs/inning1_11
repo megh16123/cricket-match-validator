@@ -1,0 +1,48 @@
+    - 11.1:
+        non_striker: CC van Slobbe
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 11.2:
+        non_striker: HDJ Siegers
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 11.3:
+        non_striker: HDJ Siegers
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CC van Slobbe
+    - 11.4:
+        non_striker: HDJ Siegers
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 11.5:
+        non_striker: HDJ Siegers
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CC van Slobbe
+    - 11.6:
+        non_striker: HDJ Siegers
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC van Slobbe

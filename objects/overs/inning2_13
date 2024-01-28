@@ -1,0 +1,53 @@
+    - 13.1:
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 13.2:
+        non_striker: L Jack
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 13.5:
+        non_striker: L Jack
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: L Jack
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - SL Kalis
+          kind: caught

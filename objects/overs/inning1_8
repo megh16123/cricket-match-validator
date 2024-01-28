@@ -1,0 +1,58 @@
+    - 8.1:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 8.2:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 8.3:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CC van Slobbe
+    - 8.4:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 8.5:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 8.6:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC van Slobbe
+    - 8.7:
+        non_striker: CC van Slobbe
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede

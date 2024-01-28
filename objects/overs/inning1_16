@@ -1,0 +1,51 @@
+    - 16.1:
+        non_striker: HW Rambaldo
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 16.2:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HW Rambaldo
+    - 16.3:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HW Rambaldo
+    - 16.4:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HW Rambaldo
+    - 16.5:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HW Rambaldo
+    - 16.6:
+        non_striker: HW Rambaldo
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          kind: bowled

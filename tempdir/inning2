@@ -1,0 +1,882 @@
+1051#- 2nd innings:
+1052#    team: Scotland
+1053#    deliveries:
+1054#    - 0.1:
+1055#        bowler: R Rijke
+1056#        runs:
+1057#          extras: 1
+1058#          total: 1
+1059#          batsman: 0
+1060#        extras:
+1061#          wides: 1
+1062#        non_striker: L Jack
+1063#        batsman: KE Bryce
+1064#    - 0.2:
+1065#        bowler: R Rijke
+1066#        runs:
+1067#          extras: 0
+1068#          total: 2
+1069#          batsman: 2
+1070#        non_striker: L Jack
+1071#        batsman: KE Bryce
+1072#    - 0.3:
+1073#        bowler: R Rijke
+1074#        runs:
+1075#          extras: 0
+1076#          total: 0
+1077#          batsman: 0
+1078#        non_striker: L Jack
+1079#        batsman: KE Bryce
+1080#    - 0.4:
+1081#        bowler: R Rijke
+1082#        runs:
+1083#          extras: 0
+1084#          total: 1
+1085#          batsman: 1
+1086#        non_striker: L Jack
+1087#        batsman: KE Bryce
+1088#    - 0.5:
+1089#        non_striker: KE Bryce
+1090#        bowler: R Rijke
+1091#        runs:
+1092#          extras: 0
+1093#          total: 0
+1094#          batsman: 0
+1095#        batsman: L Jack
+1096#    - 0.6:
+1097#        non_striker: KE Bryce
+1098#        bowler: R Rijke
+1099#        runs:
+1100#          extras: 0
+1101#          total: 2
+1102#          batsman: 2
+1103#        batsman: L Jack
+1104#    - 0.7:
+1105#        non_striker: KE Bryce
+1106#        bowler: R Rijke
+1107#        runs:
+1108#          extras: 0
+1109#          total: 3
+1110#          batsman: 3
+1111#        batsman: L Jack
+1112#    - 1.1:
+1113#        non_striker: KE Bryce
+1114#        bowler: LK Bennett
+1115#        runs:
+1116#          extras: 0
+1117#          total: 4
+1118#          batsman: 4
+1119#        batsman: L Jack
+1120#    - 1.2:
+1121#        non_striker: KE Bryce
+1122#        bowler: LK Bennett
+1123#        runs:
+1124#          extras: 0
+1125#          total: 0
+1126#          batsman: 0
+1127#        batsman: L Jack
+1128#    - 1.3:
+1129#        non_striker: KE Bryce
+1130#        bowler: LK Bennett
+1131#        runs:
+1132#          extras: 1
+1133#          total: 1
+1134#          batsman: 0
+1135#        extras:
+1136#          wides: 1
+1137#        batsman: L Jack
+1138#    - 1.4:
+1139#        non_striker: KE Bryce
+1140#        bowler: LK Bennett
+1141#        runs:
+1142#          extras: 0
+1143#          total: 0
+1144#          batsman: 0
+1145#        batsman: L Jack
+1146#    - 1.5:
+1147#        non_striker: KE Bryce
+1148#        bowler: LK Bennett
+1149#        runs:
+1150#          extras: 0
+1151#          total: 1
+1152#          batsman: 1
+1153#        batsman: L Jack
+1154#    - 1.6:
+1155#        non_striker: L Jack
+1156#        bowler: LK Bennett
+1157#        runs:
+1158#          extras: 0
+1159#          total: 0
+1160#          batsman: 0
+1161#        batsman: KE Bryce
+1162#    - 1.7:
+1163#        non_striker: L Jack
+1164#        bowler: LK Bennett
+1165#        runs:
+1166#          extras: 0
+1167#          total: 0
+1168#          batsman: 0
+1169#        batsman: KE Bryce
+1170#    - 2.1:
+1171#        non_striker: KE Bryce
+1172#        bowler: L Klokgieters
+1173#        runs:
+1174#          extras: 0
+1175#          total: 1
+1176#          batsman: 1
+1177#        batsman: L Jack
+1178#    - 2.2:
+1179#        non_striker: L Jack
+1180#        bowler: L Klokgieters
+1181#        runs:
+1182#          extras: 0
+1183#          total: 1
+1184#          batsman: 1
+1185#        batsman: KE Bryce
+1186#    - 2.3:
+1187#        non_striker: KE Bryce
+1188#        bowler: L Klokgieters
+1189#        runs:
+1190#          extras: 0
+1191#          total: 0
+1192#          batsman: 0
+1193#        batsman: L Jack
+1194#    - 2.4:
+1195#        non_striker: KE Bryce
+1196#        bowler: L Klokgieters
+1197#        runs:
+1198#          extras: 0
+1199#          total: 1
+1200#          batsman: 1
+1201#        batsman: L Jack
+1202#    - 2.5:
+1203#        non_striker: L Jack
+1204#        bowler: L Klokgieters
+1205#        runs:
+1206#          extras: 0
+1207#          total: 0
+1208#          batsman: 0
+1209#        batsman: KE Bryce
+1210#    - 2.6:
+1211#        non_striker: L Jack
+1212#        bowler: L Klokgieters
+1213#        runs:
+1214#          extras: 0
+1215#          total: 1
+1216#          batsman: 1
+1217#        batsman: KE Bryce
+1218#    - 3.1:
+1219#        non_striker: L Jack
+1220#        bowler: C de Lange
+1221#        runs:
+1222#          extras: 1
+1223#          total: 1
+1224#          batsman: 0
+1225#        extras:
+1226#          wides: 1
+1227#        batsman: KE Bryce
+1228#    - 3.2:
+1229#        non_striker: L Jack
+1230#        bowler: C de Lange
+1231#        runs:
+1232#          extras: 0
+1233#          total: 2
+1234#          batsman: 2
+1235#        batsman: KE Bryce
+1236#    - 3.3:
+1237#        non_striker: L Jack
+1238#        bowler: C de Lange
+1239#        runs:
+1240#          extras: 2
+1241#          total: 2
+1242#          batsman: 0
+1243#        extras:
+1244#          wides: 2
+1245#        batsman: KE Bryce
+1246#    - 3.4:
+1247#        non_striker: KE Bryce
+1248#        bowler: C de Lange
+1249#        runs:
+1250#          extras: 0
+1251#          total: 4
+1252#          batsman: 4
+1253#        batsman: L Jack
+1254#    - 3.5:
+1255#        non_striker: KE Bryce
+1256#        bowler: C de Lange
+1257#        runs:
+1258#          extras: 0
+1259#          total: 0
+1260#          batsman: 0
+1261#        batsman: L Jack
+1262#    - 3.6:
+1263#        non_striker: KE Bryce
+1264#        bowler: C de Lange
+1265#        runs:
+1266#          extras: 0
+1267#          total: 4
+1268#          batsman: 4
+1269#        batsman: L Jack
+1270#    - 3.7:
+1271#        non_striker: KE Bryce
+1272#        bowler: C de Lange
+1273#        runs:
+1274#          extras: 0
+1275#          total: 1
+1276#          batsman: 1
+1277#        batsman: L Jack
+1278#    - 3.8:
+1279#        non_striker: L Jack
+1280#        bowler: C de Lange
+1281#        runs:
+1282#          extras: 0
+1283#          total: 0
+1284#          batsman: 0
+1285#        batsman: KE Bryce
+1286#    - 4.1:
+1287#        non_striker: KE Bryce
+1288#        bowler: L Klokgieters
+1289#        runs:
+1290#          extras: 1
+1291#          total: 1
+1292#          batsman: 0
+1293#        extras:
+1294#          wides: 1
+1295#        batsman: L Jack
+1296#    - 4.2:
+1297#        non_striker: KE Bryce
+1298#        bowler: L Klokgieters
+1299#        runs:
+1300#          extras: 0
+1301#          total: 0
+1302#          batsman: 0
+1303#        batsman: L Jack
+1304#    - 4.3:
+1305#        non_striker: KE Bryce
+1306#        bowler: L Klokgieters
+1307#        runs:
+1308#          extras: 0
+1309#          total: 2
+1310#          batsman: 2
+1311#        batsman: L Jack
+1312#    - 4.4:
+1313#        non_striker: KE Bryce
+1314#        bowler: L Klokgieters
+1315#        runs:
+1316#          extras: 0
+1317#          total: 1
+1318#          batsman: 1
+1319#        batsman: L Jack
+1320#    - 4.5:
+1321#        non_striker: L Jack
+1322#        bowler: L Klokgieters
+1323#        runs:
+1324#          extras: 0
+1325#          total: 2
+1326#          batsman: 2
+1327#        batsman: KE Bryce
+1328#    - 4.6:
+1329#        non_striker: L Jack
+1330#        bowler: L Klokgieters
+1331#        runs:
+1332#          extras: 0
+1333#          total: 0
+1334#          batsman: 0
+1335#        batsman: KE Bryce
+1336#    - 4.7:
+1337#        non_striker: L Jack
+1338#        bowler: L Klokgieters
+1339#        runs:
+1340#          extras: 0
+1341#          total: 0
+1342#          batsman: 0
+1343#        batsman: KE Bryce
+1344#    - 5.1:
+1345#        non_striker: KE Bryce
+1346#        bowler: CC van Slobbe
+1347#        runs:
+1348#          extras: 0
+1349#          total: 1
+1350#          batsman: 1
+1351#        batsman: L Jack
+1352#    - 5.2:
+1353#        non_striker: L Jack
+1354#        bowler: CC van Slobbe
+1355#        runs:
+1356#          extras: 1
+1357#          total: 5
+1358#          batsman: 4
+1359#        extras:
+1360#          noballs: 1
+1361#        batsman: KE Bryce
+1362#    - 5.3:
+1363#        non_striker: L Jack
+1364#        bowler: CC van Slobbe
+1365#        runs:
+1366#          extras: 0
+1367#          total: 0
+1368#          batsman: 0
+1369#        batsman: KE Bryce
+1370#    - 5.4:
+1371#        non_striker: L Jack
+1372#        bowler: CC van Slobbe
+1373#        runs:
+1374#          extras: 0
+1375#          total: 1
+1376#          batsman: 1
+1377#        batsman: KE Bryce
+1378#    - 5.5:
+1379#        non_striker: KE Bryce
+1380#        bowler: CC van Slobbe
+1381#        runs:
+1382#          extras: 0
+1383#          total: 2
+1384#          batsman: 2
+1385#        batsman: L Jack
+1386#    - 5.6:
+1387#        non_striker: KE Bryce
+1388#        bowler: CC van Slobbe
+1389#        runs:
+1390#          extras: 0
+1391#          total: 2
+1392#          batsman: 2
+1393#        batsman: L Jack
+1394#    - 5.7:
+1395#        non_striker: KE Bryce
+1396#        bowler: CC van Slobbe
+1397#        runs:
+1398#          extras: 0
+1399#          total: 0
+1400#          batsman: 0
+1401#        batsman: L Jack
+1402#    - 6.1:
+1403#        non_striker: L Jack
+1404#        bowler: EE Corder
+1405#        runs:
+1406#          extras: 0
+1407#          total: 1
+1408#          batsman: 1
+1409#        batsman: KE Bryce
+1410#    - 6.2:
+1411#        non_striker: KE Bryce
+1412#        bowler: EE Corder
+1413#        runs:
+1414#          extras: 1
+1415#          total: 1
+1416#          batsman: 0
+1417#        extras:
+1418#          wides: 1
+1419#        batsman: L Jack
+1420#    - 6.3:
+1421#        non_striker: KE Bryce
+1422#        bowler: EE Corder
+1423#        runs:
+1424#          extras: 0
+1425#          total: 2
+1426#          batsman: 2
+1427#        batsman: L Jack
+1428#    - 6.4:
+1429#        non_striker: KE Bryce
+1430#        bowler: EE Corder
+1431#        runs:
+1432#          extras: 0
+1433#          total: 4
+1434#          batsman: 4
+1435#        batsman: L Jack
+1436#    - 6.5:
+1437#        non_striker: KE Bryce
+1438#        bowler: EE Corder
+1439#        runs:
+1440#          extras: 0
+1441#          total: 0
+1442#          batsman: 0
+1443#        batsman: L Jack
+1444#    - 6.6:
+1445#        non_striker: KE Bryce
+1446#        bowler: EE Corder
+1447#        runs:
+1448#          extras: 0
+1449#          total: 0
+1450#          batsman: 0
+1451#        batsman: L Jack
+1452#    - 6.7:
+1453#        non_striker: KE Bryce
+1454#        bowler: EE Corder
+1455#        runs:
+1456#          extras: 0
+1457#          total: 4
+1458#          batsman: 4
+1459#        batsman: L Jack
+1460#    - 7.1:
+1461#        non_striker: L Jack
+1462#        bowler: SL Kalis
+1463#        runs:
+1464#          extras: 1
+1465#          total: 5
+1466#          batsman: 4
+1467#        extras:
+1468#          noballs: 1
+1469#        batsman: KE Bryce
+1470#    - 7.2:
+1471#        non_striker: L Jack
+1472#        bowler: SL Kalis
+1473#        runs:
+1474#          extras: 0
+1475#          total: 1
+1476#          batsman: 1
+1477#        batsman: KE Bryce
+1478#    - 7.3:
+1479#        non_striker: KE Bryce
+1480#        bowler: SL Kalis
+1481#        runs:
+1482#          extras: 0
+1483#          total: 0
+1484#          batsman: 0
+1485#        batsman: L Jack
+1486#    - 7.4:
+1487#        non_striker: KE Bryce
+1488#        bowler: SL Kalis
+1489#        runs:
+1490#          extras: 0
+1491#          total: 1
+1492#          batsman: 1
+1493#        batsman: L Jack
+1494#    - 7.5:
+1495#        non_striker: L Jack
+1496#        bowler: SL Kalis
+1497#        runs:
+1498#          extras: 0
+1499#          total: 0
+1500#          batsman: 0
+1501#        batsman: KE Bryce
+1502#    - 7.6:
+1503#        non_striker: L Jack
+1504#        bowler: SL Kalis
+1505#        runs:
+1506#          extras: 0
+1507#          total: 1
+1508#          batsman: 1
+1509#        batsman: KE Bryce
+1510#    - 7.7:
+1511#        non_striker: KE Bryce
+1512#        bowler: SL Kalis
+1513#        runs:
+1514#          extras: 0
+1515#          total: 1
+1516#          batsman: 1
+1517#        batsman: L Jack
+1518#    - 8.1:
+1519#        non_striker: KE Bryce
+1520#        bowler: R Rijke
+1521#        runs:
+1522#          extras: 0
+1523#          total: 0
+1524#          batsman: 0
+1525#        batsman: L Jack
+1526#    - 8.2:
+1527#        non_striker: KE Bryce
+1528#        bowler: R Rijke
+1529#        runs:
+1530#          extras: 0
+1531#          total: 1
+1532#          batsman: 1
+1533#        batsman: L Jack
+1534#    - 8.3:
+1535#        non_striker: L Jack
+1536#        bowler: R Rijke
+1537#        runs:
+1538#          extras: 0
+1539#          total: 0
+1540#          batsman: 0
+1541#        batsman: KE Bryce
+1542#    - 8.4:
+1543#        non_striker: L Jack
+1544#        bowler: R Rijke
+1545#        runs:
+1546#          extras: 0
+1547#          total: 0
+1548#          batsman: 0
+1549#        batsman: KE Bryce
+1550#    - 8.5:
+1551#        non_striker: L Jack
+1552#        bowler: R Rijke
+1553#        runs:
+1554#          extras: 0
+1555#          total: 0
+1556#          batsman: 0
+1557#        batsman: KE Bryce
+1558#        wicket:
+1559#          player_out: KE Bryce
+1560#          fielders:
+1561#          - B de Leede
+1562#          kind: caught
+1563#    - 8.6:
+1564#        non_striker: L Jack
+1565#        bowler: R Rijke
+1566#        runs:
+1567#          extras: 0
+1568#          total: 0
+1569#          batsman: 0
+1570#        batsman: SJ Bryce
+1571#    - 9.1:
+1572#        non_striker: SJ Bryce
+1573#        bowler: HDJ Siegers
+1574#        runs:
+1575#          extras: 0
+1576#          total: 1
+1577#          batsman: 1
+1578#        batsman: L Jack
+1579#    - 9.2:
+1580#        non_striker: L Jack
+1581#        bowler: HDJ Siegers
+1582#        runs:
+1583#          extras: 0
+1584#          total: 1
+1585#          batsman: 1
+1586#        batsman: SJ Bryce
+1587#    - 9.3:
+1588#        non_striker: SJ Bryce
+1589#        bowler: HDJ Siegers
+1590#        runs:
+1591#          extras: 0
+1592#          total: 1
+1593#          batsman: 1
+1594#        batsman: L Jack
+1595#    - 9.4:
+1596#        non_striker: L Jack
+1597#        bowler: HDJ Siegers
+1598#        runs:
+1599#          extras: 0
+1600#          total: 1
+1601#          batsman: 1
+1602#        batsman: SJ Bryce
+1603#    - 9.5:
+1604#        non_striker: SJ Bryce
+1605#        bowler: HDJ Siegers
+1606#        runs:
+1607#          extras: 0
+1608#          total: 1
+1609#          batsman: 1
+1610#        batsman: L Jack
+1611#    - 9.6:
+1612#        non_striker: SJ Bryce
+1613#        bowler: HDJ Siegers
+1614#        runs:
+1615#          extras: 0
+1616#          total: 0
+1617#          batsman: 0
+1618#        batsman: L Jack
+1619#    - 10.1:
+1620#        non_striker: L Jack
+1621#        bowler: R Rijke
+1622#        runs:
+1623#          extras: 0
+1624#          total: 0
+1625#          batsman: 0
+1626#        batsman: SJ Bryce
+1627#    - 10.2:
+1628#        non_striker: L Jack
+1629#        bowler: R Rijke
+1630#        runs:
+1631#          extras: 0
+1632#          total: 0
+1633#          batsman: 0
+1634#        batsman: SJ Bryce
+1635#    - 10.3:
+1636#        non_striker: L Jack
+1637#        bowler: R Rijke
+1638#        runs:
+1639#          extras: 0
+1640#          total: 1
+1641#          batsman: 1
+1642#        batsman: SJ Bryce
+1643#    - 10.4:
+1644#        non_striker: SJ Bryce
+1645#        bowler: R Rijke
+1646#        runs:
+1647#          extras: 0
+1648#          total: 2
+1649#          batsman: 2
+1650#        batsman: L Jack
+1651#    - 10.5:
+1652#        non_striker: SJ Bryce
+1653#        bowler: R Rijke
+1654#        runs:
+1655#          extras: 1
+1656#          total: 1
+1657#          batsman: 0
+1658#        extras:
+1659#          wides: 1
+1660#        batsman: L Jack
+1661#    - 10.6:
+1662#        non_striker: SJ Bryce
+1663#        bowler: R Rijke
+1664#        runs:
+1665#          extras: 0
+1666#          total: 0
+1667#          batsman: 0
+1668#        batsman: L Jack
+1669#    - 10.7:
+1670#        non_striker: SJ Bryce
+1671#        bowler: R Rijke
+1672#        runs:
+1673#          extras: 0
+1674#          total: 1
+1675#          batsman: 1
+1676#        batsman: L Jack
+1677#    - 11.1:
+1678#        non_striker: SJ Bryce
+1679#        bowler: HDJ Siegers
+1680#        runs:
+1681#          extras: 0
+1682#          total: 1
+1683#          batsman: 1
+1684#        batsman: L Jack
+1685#    - 11.2:
+1686#        non_striker: L Jack
+1687#        bowler: HDJ Siegers
+1688#        runs:
+1689#          extras: 0
+1690#          total: 1
+1691#          batsman: 1
+1692#        batsman: SJ Bryce
+1693#    - 11.3:
+1694#        non_striker: SJ Bryce
+1695#        bowler: HDJ Siegers
+1696#        runs:
+1697#          extras: 0
+1698#          total: 3
+1699#          batsman: 3
+1700#        batsman: L Jack
+1701#    - 11.4:
+1702#        non_striker: L Jack
+1703#        bowler: HDJ Siegers
+1704#        runs:
+1705#          extras: 0
+1706#          total: 0
+1707#          batsman: 0
+1708#        batsman: SJ Bryce
+1709#    - 11.5:
+1710#        non_striker: L Jack
+1711#        bowler: HDJ Siegers
+1712#        runs:
+1713#          extras: 0
+1714#          total: 0
+1715#          batsman: 0
+1716#        batsman: SJ Bryce
+1717#    - 11.6:
+1718#        non_striker: L Jack
+1719#        bowler: HDJ Siegers
+1720#        runs:
+1721#          extras: 0
+1722#          total: 1
+1723#          batsman: 1
+1724#        batsman: SJ Bryce
+1725#    - 12.1:
+1726#        non_striker: L Jack
+1727#        bowler: LK Bennett
+1728#        runs:
+1729#          extras: 0
+1730#          total: 1
+1731#          batsman: 1
+1732#        batsman: SJ Bryce
+1733#    - 12.2:
+1734#        non_striker: SJ Bryce
+1735#        bowler: LK Bennett
+1736#        runs:
+1737#          extras: 0
+1738#          total: 1
+1739#          batsman: 1
+1740#        batsman: L Jack
+1741#    - 12.3:
+1742#        non_striker: L Jack
+1743#        bowler: LK Bennett
+1744#        runs:
+1745#          extras: 0
+1746#          total: 1
+1747#          batsman: 1
+1748#        batsman: SJ Bryce
+1749#    - 12.4:
+1750#        non_striker: SJ Bryce
+1751#        bowler: LK Bennett
+1752#        runs:
+1753#          extras: 0
+1754#          total: 0
+1755#          batsman: 0
+1756#        batsman: L Jack
+1757#    - 12.5:
+1758#        non_striker: SJ Bryce
+1759#        bowler: LK Bennett
+1760#        runs:
+1761#          extras: 0
+1762#          total: 4
+1763#          batsman: 4
+1764#        batsman: L Jack
+1765#    - 12.6:
+1766#        non_striker: SJ Bryce
+1767#        bowler: LK Bennett
+1768#        runs:
+1769#          extras: 0
+1770#          total: 1
+1771#          batsman: 1
+1772#        batsman: L Jack
+1773#    - 13.1:
+1774#        non_striker: SJ Bryce
+1775#        bowler: HDJ Siegers
+1776#        runs:
+1777#          extras: 0
+1778#          total: 1
+1779#          batsman: 1
+1780#        batsman: L Jack
+1781#    - 13.2:
+1782#        non_striker: L Jack
+1783#        bowler: HDJ Siegers
+1784#        runs:
+1785#          extras: 0
+1786#          total: 1
+1787#          batsman: 1
+1788#        batsman: SJ Bryce
+1789#    - 13.3:
+1790#        non_striker: SJ Bryce
+1791#        bowler: HDJ Siegers
+1792#        runs:
+1793#          extras: 0
+1794#          total: 0
+1795#          batsman: 0
+1796#        batsman: L Jack
+1797#    - 13.4:
+1798#        non_striker: SJ Bryce
+1799#        bowler: HDJ Siegers
+1800#        runs:
+1801#          extras: 0
+1802#          total: 1
+1803#          batsman: 1
+1804#        batsman: L Jack
+1805#    - 13.5:
+1806#        non_striker: L Jack
+1807#        bowler: HDJ Siegers
+1808#        runs:
+1809#          extras: 0
+1810#          total: 4
+1811#          batsman: 4
+1812#        batsman: SJ Bryce
+1813#    - 13.6:
+1814#        non_striker: L Jack
+1815#        bowler: HDJ Siegers
+1816#        runs:
+1817#          extras: 0
+1818#          total: 0
+1819#          batsman: 0
+1820#        batsman: SJ Bryce
+1821#        wicket:
+1822#          player_out: SJ Bryce
+1823#          fielders:
+1824#          - SL Kalis
+1825#          kind: caught
+1826#    - 14.1:
+1827#        non_striker: L Jack
+1828#        bowler: LK Bennett
+1829#        runs:
+1830#          extras: 0
+1831#          total: 0
+1832#          batsman: 0
+1833#        batsman: RS Glen
+1834#    - 14.2:
+1835#        non_striker: L Jack
+1836#        bowler: LK Bennett
+1837#        runs:
+1838#          extras: 0
+1839#          total: 0
+1840#          batsman: 0
+1841#        batsman: RS Glen
+1842#    - 14.3:
+1843#        non_striker: L Jack
+1844#        bowler: LK Bennett
+1845#        runs:
+1846#          extras: 1
+1847#          total: 1
+1848#          batsman: 0
+1849#        extras:
+1850#          wides: 1
+1851#        batsman: RS Glen
+1852#    - 14.4:
+1853#        non_striker: L Jack
+1854#        bowler: LK Bennett
+1855#        runs:
+1856#          extras: 1
+1857#          total: 1
+1858#          batsman: 0
+1859#        extras:
+1860#          wides: 1
+1861#        batsman: RS Glen
+1862#    - 14.5:
+1863#        non_striker: L Jack
+1864#        bowler: LK Bennett
+1865#        runs:
+1866#          extras: 0
+1867#          total: 1
+1868#          batsman: 1
+1869#        batsman: RS Glen
+1870#    - 14.6:
+1871#        bowler: LK Bennett
+1872#        runs:
+1873#          extras: 1
+1874#          total: 1
+1875#          batsman: 0
+1876#        extras:
+1877#          wides: 1
+1878#        non_striker: RS Glen
+1879#        batsman: L Jack
+1880#    - 14.7:
+1881#        bowler: LK Bennett
+1882#        runs:
+1883#          extras: 1
+1884#          total: 1
+1885#          batsman: 0
+1886#        extras:
+1887#          wides: 1
+1888#        non_striker: RS Glen
+1889#        batsman: L Jack
+1890#    - 14.8:
+1891#        bowler: LK Bennett
+1892#        runs:
+1893#          extras: 0
+1894#          total: 0
+1895#          batsman: 0
+1896#        non_striker: RS Glen
+1897#        batsman: L Jack
+1898#        wicket:
+1899#          player_out: L Jack
+1900#          kind: bowled
+1901#    - 14.9:
+1902#        bowler: LK Bennett
+1903#        runs:
+1904#          extras: 0
+1905#          total: 0
+1906#          batsman: 0
+1907#        non_striker: RS Glen
+1908#        batsman: LI Wilkinson
+1909#    - 14.1:
+1910#        bowler: LK Bennett
+1911#        runs:
+1912#          extras: 0
+1913#          total: 0
+1914#          batsman: 0
+1915#        non_striker: RS Glen
+1916#        batsman: LI Wilkinson
+1917#    - 15.1:
+1918#        non_striker: LI Wilkinson
+1919#        bowler: EE Corder
+1920#        runs:
+1921#          extras: 0
+1922#          total: 4
+1923#          batsman: 4
+1924#        batsman: RS Glen
+1925#    - 15.2:
+1926#        non_striker: LI Wilkinson
+1927#        bowler: EE Corder
+1928#        runs:
+1929#          extras: 0
+1930#          total: 1
+1931#          batsman: 1
+1932#        batsman: RS Glen

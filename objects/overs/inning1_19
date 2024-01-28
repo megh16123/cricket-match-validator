@@ -1,0 +1,54 @@
+    - 19.1:
+        non_striker: HW Rambaldo
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Veringmeier
+    - 19.2:
+        non_striker: HW Rambaldo
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Veringmeier
+        wicket:
+          player_out: M Veringmeier
+          fielders:
+          - AH Maqsood
+          kind: caught
+    - 19.3:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Klokgieters
+        batsman: HW Rambaldo
+    - 19.4:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Klokgieters
+        batsman: HW Rambaldo
+    - 19.5:
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Klokgieters
+        batsman: HW Rambaldo
+    - 19.6:
+        non_striker: L Klokgieters
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HW Rambaldo
+- 2nd innings:

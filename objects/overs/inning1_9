@@ -1,0 +1,63 @@
+    - 9.1:
+        non_striker: CC van Slobbe
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 9.2:
+        non_striker: B de Leede
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 9.3:
+        non_striker: B de Leede
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CC van Slobbe
+    - 9.4:
+        non_striker: B de Leede
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC van Slobbe
+    - 9.5:
+        non_striker: CC van Slobbe
+        bowler: S Haggo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B de Leede
+    - 9.6:
+        non_striker: CC van Slobbe
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B de Leede
+    - 9.7:
+        non_striker: CC van Slobbe
+        bowler: S Haggo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - LI Wilkinson
+          kind: caught

@@ -1,0 +1,53 @@
+    - 2.1:
+        non_striker: B de Leede
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.2:
+        non_striker: SL Kalis
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.3:
+        non_striker: SL Kalis
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 2.4:
+        non_striker: B de Leede
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 2.5:
+        non_striker: B de Leede
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 2.6:
+        non_striker: B de Leede
+        bowler: K McGill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe

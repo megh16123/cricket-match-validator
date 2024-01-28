@@ -1,0 +1,58 @@
+    - 4.1:
+        non_striker: KE Bryce
+        bowler: L Klokgieters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Jack
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 4.3:
+        non_striker: KE Bryce
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Jack
+    - 4.4:
+        non_striker: KE Bryce
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 4.5:
+        non_striker: L Jack
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 4.6:
+        non_striker: L Jack
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.7:
+        non_striker: L Jack
+        bowler: L Klokgieters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce

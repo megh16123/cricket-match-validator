@@ -1,0 +1,48 @@
+    - 3.1:
+        non_striker: CC van Slobbe
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.2:
+        non_striker: CC van Slobbe
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 3.3:
+        non_striker: CC van Slobbe
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 3.4:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 3.5:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 3.6:
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe

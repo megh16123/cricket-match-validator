@@ -1,0 +1,58 @@
+    - 6.1:
+        non_striker: L Jack
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 6.2:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Jack
+    - 6.3:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Jack
+    - 6.4:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Jack
+    - 6.5:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 6.7:
+        non_striker: KE Bryce
+        bowler: EE Corder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Jack

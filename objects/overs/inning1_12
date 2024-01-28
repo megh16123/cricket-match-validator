@@ -1,0 +1,51 @@
+    - 12.1:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 12.2:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 12.3:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+        wicket:
+          player_out: CC van Slobbe
+          kind: bowled
+    - 12.4:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HW Rambaldo
+    - 12.5:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HW Rambaldo
+    - 12.6:
+        non_striker: HDJ Siegers
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HW Rambaldo

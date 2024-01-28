@@ -1,0 +1,58 @@
+    - 10.1:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 10.3:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.4:
+        non_striker: SJ Bryce
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Jack
+    - 10.5:
+        non_striker: SJ Bryce
+        bowler: R Rijke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Jack
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 10.7:
+        non_striker: SJ Bryce
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack

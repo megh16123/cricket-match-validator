@@ -1,0 +1,53 @@
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 8.2:
+        non_striker: KE Bryce
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 8.3:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          fielders:
+          - B de Leede
+          kind: caught
+    - 8.6:
+        non_striker: L Jack
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce

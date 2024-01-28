@@ -1,0 +1,58 @@
+    - 7.1:
+        non_striker: L Jack
+        bowler: SL Kalis
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: L Jack
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.3:
+        non_striker: KE Bryce
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 7.4:
+        non_striker: KE Bryce
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 7.5:
+        non_striker: L Jack
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.6:
+        non_striker: L Jack
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.7:
+        non_striker: KE Bryce
+        bowler: SL Kalis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack

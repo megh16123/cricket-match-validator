@@ -1,0 +1,48 @@
+    - 12.1:
+        non_striker: L Jack
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.2:
+        non_striker: SJ Bryce
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 12.3:
+        non_striker: L Jack
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Jack
+    - 12.5:
+        non_striker: SJ Bryce
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Jack
+    - 12.6:
+        non_striker: SJ Bryce
+        bowler: LK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack

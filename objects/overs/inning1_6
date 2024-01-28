@@ -1,0 +1,60 @@
+    - 6.1:
+        non_striker: CC van Slobbe
+        bowler: K McGill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B de Leede
+    - 6.2:
+        non_striker: CC van Slobbe
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 6.3:
+        non_striker: CC van Slobbe
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 6.4:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC van Slobbe
+    - 6.5:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC van Slobbe
+    - 6.6:
+        non_striker: CC van Slobbe
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 6.7:
+        non_striker: B de Leede
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CC van Slobbe

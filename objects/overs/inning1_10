@@ -1,0 +1,48 @@
+    - 10.1:
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: CC van Slobbe
+    - 10.2:
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HDJ Siegers
+        batsman: CC van Slobbe
+    - 10.3:
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HDJ Siegers
+        batsman: CC van Slobbe
+    - 10.4:
+        non_striker: CC van Slobbe
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+    - 10.5:
+        non_striker: CC van Slobbe
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDJ Siegers
+    - 10.6:
+        non_striker: CC van Slobbe
+        bowler: LI Wilkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
