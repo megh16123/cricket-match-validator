@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir ./objects/overs && awk -F "#" '{system("sed -n \47"$1","($3-1)"p\47 '$1'> ./objects/overs/innin1_"$2)}END{print $0}' ./objects/conover1
+awk -F "#" '{system("sed -n \47"$1","($3-1)"p\47 '$1'> ./objects/overs/innin2_"$2)}END{print $0}' ./objects/conover2
+

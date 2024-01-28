@@ -1,0 +1,9 @@
+#!/bin/bash
+
+last=$(wc -l $1|cut -d " " -f 1)
+mkdir ./objects/overs && awk -F "#" '{system("sed -n \47"$1","($3-1)"p\47 '$1'> ./objects/overs/inning1_"$2)}END{system("sed -n \47"$3",/2nd innings/p\47 '$1'> ./objects/overs/inning1_"$4)}' ./objects/conover1
+awk -F "#" '{system("sed -n \47"$1","($3-1)"p\47 '$1'> ./objects/overs/inning2_"$2)}END{system("sed -n \47"$3",'$last'p\47 '$1'> ./objects/overs/inning2_"$4)}' ./objects/conover2
+
+
+
+

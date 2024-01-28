@@ -1,5 +1,5 @@
 #!/bin/bash
 
-awk -F "#" '$2-$1!=1{print "NO"}' ./objects/conover1
-awk -F "#" '$2-$1!=1{print "NO"}' ./objects/conover2
+awk -F "#" '$4-$2!=1{print "NO"}($3<$1){print "NO"}' ./objects/conover1
+awk -F "#" '$4-$2!=1{print "NO"}($3<$1){print "NO"}' ./objects/conover2
 

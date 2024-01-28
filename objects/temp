@@ -1,1 +1,0 @@
-awk -F "#" 'BEGIN{over=0;}(over<$2){print over"#"$2;over=$2}' overline1

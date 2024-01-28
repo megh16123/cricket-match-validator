@@ -1,4 +1,6 @@
 #!/bin/bash
 
-awk -F "#" 'BEGIN{over=0;}(over<$2){print over"#"$2;over=$2}' ./objects/overline1 > ./objects/conover1
-awk -F "#" 'BEGIN{over=0;}(over<$2){print over"#"$2;over=$2}' ./objects/overline2 > ./objects/conover2
+awk -F "#" 'BEGIN{line=-1;over=-1}(over<$2){print line"#"over"#"$1"#"$2;over=$2;line=$1}' ./objects/overline1 | sed '/\-/d' > ./objects/conover1
+awk -F "#" 'BEGIN{line=-1;over=-1}(over<$2){print line"#"over"#"$1"#"$2;over=$2;line=$1}' ./objects/overline2 | sed '/\-/d' > ./objects/conover2
+
+
