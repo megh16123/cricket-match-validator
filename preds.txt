@@ -20,6 +20,7 @@
 #total runs = extras + batsmen_run                       : totalcheck-run_tuple-2-2-1
 #batters of each team shall not be more than 11          : countcheck-team_players-3-1-1
 #bowlers of each team cannot be more than 15             : countcheck-team_players-3-1-2
+ player should not occur after getting out               : outcheck-player_out-3-3-1
 #total members in each team shall not exceed 15          : countcheck-team_combined-4-1-1
 #members in each team should be mutually exclusive       : exclusion-team_members_4-1-2
 #lineno1>lineno2 -> overno1>overno2 or overno1 = overno2 : overseq-overline-4-2-1 

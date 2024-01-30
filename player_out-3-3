@@ -1,0 +1,4 @@
+#!/bin/bash
+
+awk -F "#" '/player_out/{print $1"#"$2}' ./objects/inning1 | sed 's/player_out:\| *//g' > ./objects/players_out1
+awk -F "#" '/player_out/{print $1"#"$2}' ./objects/inning2 | sed 's/player_out:\| *//g' > ./objects/players_out2

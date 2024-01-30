@@ -15,8 +15,9 @@
 #All the keywords present in the file                                           : keywords-1-13
 #inning wise data                                                               : innings-2-1
 #(total,extras,runs_batsmen)                                                    : run_tuple-2-2
-#over and balls with line numers                                                : overball-3-2
 #team players classified as bowlers batsmen(non_strikers included) of each team : team_players-3-1
+#over and balls with line numers                                                : overball-3-2
+#players out                                                                    : player_out-3-3
 #combined players of each team                                                  : team_combined-4-1
 #overs with line number                                                         : overline-4-2
 #consecutive over numbers                                                       : conover-5-1
